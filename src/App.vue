@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <HelloWorld/>
     <TitleComponent />
     <HeroImg />
   </div>
